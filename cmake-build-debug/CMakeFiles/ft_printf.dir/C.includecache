@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/riyashuleva/Desktop/21/ft_printf/ft_printf.h
+stdarg.h
+-
+unistd.h
+-
+stdlib.h
+-
+
+/Users/riyashuleva/Desktop/21/ft_printf/main.c
+stdio.h
+-
+ft_printf.h
+/Users/riyashuleva/Desktop/21/ft_printf/ft_printf.h
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ft_printf"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ft_printf">
+				<Option output="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/ft_printf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/riyashuleva/Desktop/21/ft_printf/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ft_printf"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ft_printf/fast">
+				<Option output="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/ft_printf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/riyashuleva/Desktop/21/ft_printf/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 ft_printf/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_checkers.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_print_ptr.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_print_upx.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printchar.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printf.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printf.h">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printhex.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printnum.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printpercent.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printstr.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/ft_printunsigned.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/libsfunc.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/libsfuncs.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/main.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/utils.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/riyashuleva/Desktop/21/ft_printf/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

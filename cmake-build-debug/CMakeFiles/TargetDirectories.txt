@@ -1,0 +1,3 @@
+/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/riyashuleva/Desktop/21/ft_printf/cmake-build-debug/CMakeFiles/ft_printf.dir
